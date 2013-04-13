@@ -1,0 +1,5 @@
+
+Filename: pywc.py
+	  A simple wc like script to counting number of characters, words and line of a file 
+	  which file's name picked as an argument.
+Feedback: Vahid.Maani [at] gmail [dot] com
